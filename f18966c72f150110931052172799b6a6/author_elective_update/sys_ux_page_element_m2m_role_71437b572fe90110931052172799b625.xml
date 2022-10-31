@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element_m2m_role">
+    <sys_ux_page_element_m2m_role action="DELETE">
+        <element display_value="CATS Home">6f5f6b532fe90110931052172799b6ac</element>
+        <group/>
+        <role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</role>
+        <sys_class_name>sys_ux_page_element_m2m_role</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-14 05:20:32</sys_created_on>
+        <sys_id>71437b572fe90110931052172799b625</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_ux_page_element_m2m_role_71437b572fe90110931052172799b625</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-14 05:21:18</sys_updated_on>
+    </sys_ux_page_element_m2m_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</application>
+        <file_path/>
+        <instance_id>2add6bcadba5b384387021c405961947</instance_id>
+        <instance_name>dev86351</instance_name>
+        <name>sys_ux_page_element_m2m_role_71437b572fe90110931052172799b625</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element_m2m_role"><sys_ux_page_element_m2m_role action="INSERT_OR_UPDATE"><element display_value="CATS Home">6f5f6b532fe90110931052172799b6ac</element><group/><role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</role><sys_class_name>sys_ux_page_element_m2m_role</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-14 05:20:32</sys_created_on><sys_id>71437b572fe90110931052172799b625</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package><sys_policy/><sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope><sys_update_name>sys_ux_page_element_m2m_role_71437b572fe90110931052172799b625</sys_update_name><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-14 05:21:18</sys_updated_on></sys_ux_page_element_m2m_role></record_update>]]></payload>
+        <payload_hash>527601645</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>7d8966c72f150110931052172799b6a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-14 05:21:18</sys_created_on>
+        <sys_id>7673bb572fe90110931052172799b6c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ef6ad95d40000001</sys_recorded_at>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-14 05:21:18</sys_updated_on>
+        <type>UX Page Element Permissions</type>
+        <update_guid>be73bb57afe901102c9dd94715e453c1</update_guid>
+        <update_guid_history>be73bb57afe901102c9dd94715e453c1:527601645,27433b576ee90110a8899fa66b7ace12:-49153397</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-03-02 15:12:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_element_m2m_role">sys_ux_page_element_m2m_role</sys_db_object>
+        <sys_id>08c1ae1d04e14ecc8198f977da4a1e10</sys_id>
+        <sys_metadata>71437b572fe90110931052172799b625</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_scope_delete display_value="">1b5926a6e53c42a787e144c98865e359</sys_scope_delete>
+        <sys_update_name>sys_ux_page_element_m2m_role_71437b572fe90110931052172799b625</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_element_m2m_role_71437b572fe90110931052172799b625">7673bb572fe90110931052172799b6c2</sys_update_version>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-03-02 15:12:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

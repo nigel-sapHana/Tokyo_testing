@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-03-23 14:41:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>f76698e3c012011066a43cafb4fc567b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>m2m_app_config_theme_f76698e3c012011066a43cafb4fc567b</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-03-23 14:41:08</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">7f6698e3001201104bc13e9d5d06ab7b</theme>
+        <ux_app_configuration display_value="GOA - CATS/PABLO New Workspace Config">3b6698e300120110c8efe56c9264727b</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

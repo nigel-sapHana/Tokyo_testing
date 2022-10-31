@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_540313_cats_consumer" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_540313_cats_consumer</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-06-06 16:53:07</sys_created_on>
+            <sys_id>74e34f2b2f370110931052172799b657</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+            <sys_update_name>sys_choice_x_540313_cats_consumer_state</sys_update_name>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-06-06 16:53:07</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Customer Service case has been opened by customer</hint>
+            <inactive>false</inactive>
+            <label>New</label>
+            <language>en</language>
+            <name>x_540313_cats_consumer</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-06-06 16:53:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8e34f2b2f370110931052172799b656</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-06-06 16:53:07</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Customer Service case is fully qualified but work has not started yet</hint>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_540313_cats_consumer</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-06-06 16:53:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01e34f2b2f370110931052172799b65f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-06-06 16:53:07</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Customer Service case requires more info from customer</hint>
+            <inactive>false</inactive>
+            <label>Awaiting Info</label>
+            <language>en</language>
+            <name>x_540313_cats_consumer</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-06-06 16:53:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05e34f2b2f370110931052172799b6bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-06-06 16:53:07</sys_updated_on>
+            <value>18</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Customer Service case has been updated by agent with solution</hint>
+            <inactive>false</inactive>
+            <label>Resolved</label>
+            <language>en</language>
+            <name>x_540313_cats_consumer</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-06-06 16:53:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5e34f2b2f370110931052172799b6c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-06-06 16:53:07</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Customer Service Case closed</hint>
+            <inactive>false</inactive>
+            <label>Closed</label>
+            <language>en</language>
+            <name>x_540313_cats_consumer</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-06-06 16:53:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89e34f2b2f370110931052172799b6c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-06-06 16:53:07</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Case has been cancelled</hint>
+            <inactive>false</inactive>
+            <label>Cancelled</label>
+            <language>en</language>
+            <name>x_540313_cats_consumer</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-06-06 16:53:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4de34f2b2f370110931052172799b6ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-06-06 16:53:07</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CP State 1</label>
+            <language>en</language>
+            <name>x_540313_cats_consumer</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-06-06 16:53:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01e34f2b2f370110931052172799b6d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-06-06 16:53:07</sys_updated_on>
+            <value>234</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CP State 2</label>
+            <language>en</language>
+            <name>x_540313_cats_consumer</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-06-06 16:53:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05e34f2b2f370110931052172799b6db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-06-06 16:53:07</sys_updated_on>
+            <value>236</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CP State 3</label>
+            <language>en</language>
+            <name>x_540313_cats_consumer</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-06-06 16:53:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09e34f2b2f370110931052172799b6e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-06-06 16:53:07</sys_updated_on>
+            <value>237</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_540313_cats_events" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>consumer</element>
+            <list_id display_value="x_540313_cats_events" element="NULL" name="x_540313_cats_events" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f62038fc2fd60110931052172799b68a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-03-15 03:30:14</sys_created_on>
+            <sys_id>f22038fc2fd60110931052172799b68b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-03-15 03:30:14</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_540313_cats_events</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-03-15 03:30:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f62038fc2fd60110931052172799b68a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_540313_cats_events</sys_name>
+            <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+            <sys_update_name>sys_ui_list_x_540313_cats_events_null</sys_update_name>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-03-15 03:30:14</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

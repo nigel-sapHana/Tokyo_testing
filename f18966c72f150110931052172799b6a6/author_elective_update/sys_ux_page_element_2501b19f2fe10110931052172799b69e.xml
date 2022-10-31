@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element">
+    <sys_ux_page_element action="DELETE">
+        <attrs/>
+        <children/>
+        <component display_value="now-uxf-page-container">634f9e5267e0330075e8ebc172415abf</component>
+        <is_root>false</is_root>
+        <layout/>
+        <macroponent/>
+        <macroponent_config/>
+        <name>My Work</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent display_value="">e2c0b11f2fe10110931052172799b6c0</parent>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <sys_class_name>sys_ux_page_element</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:51:51</sys_created_on>
+        <sys_id>2501b19f2fe10110931052172799b69e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Work</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_ux_page_element_2501b19f2fe10110931052172799b69e</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:51:51</sys_updated_on>
+        <tree_root/>
+    </sys_ux_page_element>
+    <sys_variable_value action="DELETE" query="document_key=2501b19f2fe10110931052172799b69e"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2501b19f2fe10110931052172799b69e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:51:51</sys_created_on>
+        <sys_id>1521391f2fe10110931052172799b65e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:51:51</sys_updated_on>
+        <value/>
+        <variable display_value="Type">579f569267e0330075e8ebc172415ac1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2501b19f2fe10110931052172799b69e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:51:51</sys_created_on>
+        <sys_id>1921391f2fe10110931052172799b65d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:51:51</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Border">cf7f929267e0330075e8ebc172415a7d</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2501b19f2fe10110931052172799b69e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:51:51</sys_created_on>
+        <sys_id>5121391f2fe10110931052172799b65e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:51:51</sys_updated_on>
+        <value/>
+        <variable display_value="Optional Container Title">c78f169267e0330075e8ebc172415a4a</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2501b19f2fe10110931052172799b69e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:51:51</sys_created_on>
+        <sys_id>9d21391f2fe10110931052172799b65d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:51:51</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Can Collapse">6ab59deb73133300f7353c78caf6a74c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2501b19f2fe10110931052172799b69e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:51:51</sys_created_on>
+        <sys_id>d921391f2fe10110931052172799b65d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:51:51</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Collapsed">e6f5112f73133300f7353c78caf6a7bb</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</application>
+        <file_path/>
+        <instance_id>2add6bcadba5b384387021c405961947</instance_id>
+        <instance_name>dev86351</instance_name>
+        <name>sys_ux_page_element_2501b19f2fe10110931052172799b69e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element"><sys_ux_page_element action="INSERT_OR_UPDATE"><attrs/><children/><component display_value="now-uxf-page-container">634f9e5267e0330075e8ebc172415abf</component><is_root>false</is_root><layout/><macroponent/><macroponent_config/><name>My Work</name><order>0</order><page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page><parent display_value="">e2c0b11f2fe10110931052172799b6c0</parent><parent_slot/><picker/><picker_condition/><sys_class_name>sys_ux_page_element</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:51:51</sys_created_on><sys_id>2501b19f2fe10110931052172799b69e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Work</sys_name><sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package><sys_policy/><sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope><sys_update_name>sys_ux_page_element_2501b19f2fe10110931052172799b69e</sys_update_name><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:51:51</sys_updated_on><tree_root/></sys_ux_page_element><sys_variable_value action="delete_multiple" query="document_key=2501b19f2fe10110931052172799b69e"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2501b19f2fe10110931052172799b69e</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:51:51</sys_created_on><sys_id>1521391f2fe10110931052172799b65e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:51:51</sys_updated_on><value/><variable display_value="Type">579f569267e0330075e8ebc172415ac1</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2501b19f2fe10110931052172799b69e</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:51:51</sys_created_on><sys_id>1921391f2fe10110931052172799b65d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:51:51</sys_updated_on><value>1</value><variable display_value="Border">cf7f929267e0330075e8ebc172415a7d</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2501b19f2fe10110931052172799b69e</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:51:51</sys_created_on><sys_id>5121391f2fe10110931052172799b65e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:51:51</sys_updated_on><value/><variable display_value="Optional Container Title">c78f169267e0330075e8ebc172415a4a</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2501b19f2fe10110931052172799b69e</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:51:51</sys_created_on><sys_id>9d21391f2fe10110931052172799b65d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:51:51</sys_updated_on><value>1</value><variable display_value="Can Collapse">6ab59deb73133300f7353c78caf6a74c</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2501b19f2fe10110931052172799b69e</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:51:51</sys_created_on><sys_id>d921391f2fe10110931052172799b65d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:51:51</sys_updated_on><value>0</value><variable display_value="Collapsed">e6f5112f73133300f7353c78caf6a7bb</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>987134153</payload_hash>
+        <record_name>My Work</record_name>
+        <reverted_from/>
+        <source>7d8966c72f150110931052172799b6a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 20:14:22</sys_created_on>
+        <sys_id>9b46f9d32f250110931052172799b6a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ef4b8dbb30000001</sys_recorded_at>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 20:14:22</sys_updated_on>
+        <type>UX Page Element</type>
+        <update_guid>e121759fc7e10110b258268f26e898de</update_guid>
+        <update_guid_history>e121759fc7e10110b258268f26e898de:1206080509,e121759fc7e10110b258268f26e898de:1206080509</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 20:14:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_element">sys_ux_page_element</sys_db_object>
+        <sys_id>427f96943a714de18486ae6396fb5091</sys_id>
+        <sys_metadata>2501b19f2fe10110931052172799b69e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Work</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_scope_delete display_value="">1b5926a6e53c42a787e144c98865e359</sys_scope_delete>
+        <sys_update_name>sys_ux_page_element_2501b19f2fe10110931052172799b69e</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_element_2501b19f2fe10110931052172799b69e">9b46f9d32f250110931052172799b6a6</sys_update_version>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 20:14:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>component</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "vpazitn",
+  "elementLabel" : "Report/PA Widget",
+  "propertyValues" : {
+    "border" : {
+      "nodeType" : "OBJECT",
+      "object" : true,
+      "empty" : false,
+      "float" : false,
+      "binary" : false,
+      "long" : false,
+      "number" : false,
+      "floatingPointNumber" : false,
+      "pojo" : false,
+      "integralNumber" : false,
+      "short" : false,
+      "int" : false,
+      "double" : false,
+      "bigDecimal" : false,
+      "bigInteger" : false,
+      "textual" : false,
+      "valueNode" : false,
+      "containerNode" : true,
+      "missingNode" : false,
+      "boolean" : false,
+      "array" : false,
+      "null" : false
+    },
+    "reportSysId" : {
+      "nodeType" : "OBJECT",
+      "object" : true,
+      "empty" : false,
+      "float" : false,
+      "binary" : false,
+      "long" : false,
+      "number" : false,
+      "floatingPointNumber" : false,
+      "pojo" : false,
+      "integralNumber" : false,
+      "short" : false,
+      "int" : false,
+      "double" : false,
+      "bigDecimal" : false,
+      "bigInteger" : false,
+      "textual" : false,
+      "valueNode" : false,
+      "containerNode" : true,
+      "missingNode" : false,
+      "boolean" : false,
+      "array" : false,
+      "null" : false
+    },
+    "refreshInterval" : {
+      "nodeType" : "OBJECT",
+      "object" : true,
+      "empty" : false,
+      "float" : false,
+      "binary" : false,
+      "long" : false,
+      "number" : false,
+      "floatingPointNumber" : false,
+      "pojo" : false,
+      "integralNumber" : false,
+      "short" : false,
+      "int" : false,
+      "double" : false,
+      "bigDecimal" : false,
+      "bigInteger" : false,
+      "textual" : false,
+      "valueNode" : false,
+      "containerNode" : true,
+      "missingNode" : false,
+      "boolean" : false,
+      "array" : false,
+      "null" : false
+    },
+    "label" : "",
+    "paWidgetSysId" : "",
+    "variant" : "auto",
+    "isRealtime" : false,
+    "refreshFrequency" : "0",
+    "kpiDetailsNavigation" : false
+  },
+  "eventMappings" : [ ],
+  "slot" : "",
+  "definition" : {
+    "id" : "7dbc62b27efa88d6d910579a68c7a65d",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "isNonDestructive" : false,
+  "styles" : { }
+}, {
+  "elementId" : "fdgpvjj",
+  "elementLabel" : "My Work",
+  "propertyValues" : {
+    "border" : {
+      "nodeType" : "OBJECT",
+      "object" : true,
+      "empty" : false,
+      "float" : false,
+      "binary" : false,
+      "long" : false,
+      "number" : false,
+      "floatingPointNumber" : false,
+      "pojo" : false,
+      "integralNumber" : false,
+      "short" : false,
+      "int" : false,
+      "double" : false,
+      "bigDecimal" : false,
+      "bigInteger" : false,
+      "textual" : false,
+      "valueNode" : false,
+      "containerNode" : true,
+      "missingNode" : false,
+      "boolean" : false,
+      "array" : false,
+      "null" : false
+    },
+    "collapsed" : {
+      "nodeType" : "OBJECT",
+      "object" : true,
+      "empty" : false,
+      "float" : false,
+      "binary" : false,
+      "long" : false,
+      "number" : false,
+      "floatingPointNumber" : false,
+      "pojo" : false,
+      "integralNumber" : false,
+      "short" : false,
+      "int" : false,
+      "double" : false,
+      "bigDecimal" : false,
+      "bigInteger" : false,
+      "textual" : false,
+      "valueNode" : false,
+      "containerNode" : true,
+      "missingNode" : false,
+      "boolean" : false,
+      "array" : false,
+      "null" : false
+    },
+    "canCollapse" : {
+      "nodeType" : "OBJECT",
+      "object" : true,
+      "empty" : false,
+      "float" : false,
+      "binary" : false,
+      "long" : false,
+      "number" : false,
+      "floatingPointNumber" : false,
+      "pojo" : false,
+      "integralNumber" : false,
+      "short" : false,
+      "int" : false,
+      "double" : false,
+      "bigDecimal" : false,
+      "bigInteger" : false,
+      "textual" : false,
+      "valueNode" : false,
+      "containerNode" : true,
+      "missingNode" : false,
+      "boolean" : false,
+      "array" : false,
+      "null" : false
+    },
+    "label" : "",
+    "bare" : false,
+    "type" : "default",
+    "bgvar" : null,
+    "size" : false,
+    "disableDismiss" : false,
+    "defer" : false,
+    "collapseButtonTooltipContent" : "Collapse container to hide contents",
+    "expandButtonTooltipContent" : "Expand container to show contents"
+  },
+  "eventMappings" : [ ],
+  "slot" : "",
+  "definition" : {
+    "id" : "80653115e23949b501e719ae9b0b42a6",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "isNonDestructive" : false,
+  "styles" : { }
+}, {
+  "elementId" : "data_visualization_1",
+  "elementLabel" : "Open Complaints",
+  "propertyValues" : {
+    "label" : "",
+    "chartType" : "single_score",
+    "dataConfigurations" : "[{\"__viz_config_id\":\"dGFibGV4XzU0MDMxM19jYXRzX2NvbnN1bWVyMTY0NDc4MjEzOTAxNg==\",\"__viz_config_label\":\"CP Consumer\",\"aggregate_function\":\"COUNT\",\"display_zero\":true,\"source_type\":\"table\",\"source_id\":\"x_540313_cats_consumer\"}]",
+    "styleConfigurations" : "{\"width\":\"auto\",\"height\":\"auto\",\"showDataLabels\":false,\"seriesConfig\":{\"data_0_0\":{\"enableAbbreviation\":false}},\"dataLabelConfig\":{\"align\":\"middle\",\"collisions\":\"hide\",\"stacked\":\"individual\",\"valueType\":\"both\"}}",
+    "isRealtime" : false,
+    "variant" : "auto",
+    "border" : true,
+    "refreshInterval" : "",
+    "kpiDetailsNavigation" : false,
+    "followFilters" : true,
+    "hideFiltersInfo" : false,
+    "filterConfigurations" : "@state.parFilters",
+    "hideHeader" : true,
+    "showRealtimeIndicator" : true,
+    "refreshFrequency" : "0"
+  },
+  "eventMappings" : [ ],
+  "slot" : "default-slot",
+  "definition" : {
+    "id" : "67cf18a377c70010cb834a2a6910619a",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "isNonDestructive" : false,
+  "styles" : { }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ ]</data>
+        <dispatched_events/>
+        <events/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "items" : null,
+    "root" : {"type":"row","columns":[{"type":"column","slotName":"default-slot","size":"12","rows":[],"id":"ckzlosnre00013p867899yeom"}],"id":"ckzlosnre00023p867jyqvood"},
+    "rules" : null,
+    "styles" : null,
+    "templateId" : null,
+    "type" : "rowColumn"
+  }
+}</layout>
+        <macroponent_dependencies/>
+        <name>CP Landing Page (enabled for UI Builder)</name>
+        <props>[ ]</props>
+        <required_translations>[ ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:54:45</sys_created_on>
+        <sys_id>7bc1f51f2fe10110931052172799b6d4</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>CP Landing Page (enabled for UI Builder)</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_ux_macroponent_7bc1f51f2fe10110931052172799b6d4</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:56:35</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>

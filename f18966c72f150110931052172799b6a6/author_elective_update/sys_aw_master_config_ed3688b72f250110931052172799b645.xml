@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="DELETE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="">e93688b72f250110931052172799b647</compiled_page_registry>
+        <description/>
+        <global_search display_value="Workspace search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Agent Workspace Search Config">4961e3e7871033000929717936cb0ba7</global_search_data>
+        <hide_search_results_count>false</hide_search_results_count>
+        <name>Agent Workspace</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-15 01:21:37</sys_created_on>
+        <sys_id>ed3688b72f250110931052172799b645</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agent Workspace</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_aw_master_config_ed3688b72f250110931052172799b645</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-15 01:21:37</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>cp2</workspace_url>
+    </sys_aw_master_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</application>
+        <file_path/>
+        <instance_id>2add6bcadba5b384387021c405961947</instance_id>
+        <instance_name>dev86351</instance_name>
+        <name>sys_aw_master_config_ed3688b72f250110931052172799b645</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config"><sys_aw_master_config action="INSERT_OR_UPDATE"><active>true</active><brand_color/><compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page><compiled_page_registry display_value="">e93688b72f250110931052172799b647</compiled_page_registry><description/><global_search display_value="Workspace search settings">97a574ea53c0130084acddeeff7b12a6</global_search><global_search_data display_value="Agent Workspace Search Config">4961e3e7871033000929717936cb0ba7</global_search_data><hide_search_results_count>false</hide_search_results_count><name>Agent Workspace</name><navigation_type>tab</navigation_type><notifications_enabled>true</notifications_enabled><primary_color/><search_enabled>true</search_enabled><sys_class_name>sys_aw_master_config</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-15 01:21:37</sys_created_on><sys_id>ed3688b72f250110931052172799b645</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Agent Workspace</sys_name><sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package><sys_policy/><sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope><sys_update_name>sys_aw_master_config_ed3688b72f250110931052172799b645</sys_update_name><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-15 01:21:37</sys_updated_on><user_preference_controls_enabled>true</user_preference_controls_enabled><workspace_logo/><workspace_url>cp2</workspace_url></sys_aw_master_config></record_update>]]></payload>
+        <payload_hash>-1905223478</payload_hash>
+        <record_name>Agent Workspace</record_name>
+        <reverted_from/>
+        <source>7d8966c72f150110931052172799b6a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-15 01:21:38</sys_created_on>
+        <sys_id>b536c8b72f250110931052172799b655</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17efaf886b20000001</sys_recorded_at>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-15 01:21:38</sys_updated_on>
+        <type>Workspace</type>
+        <update_guid>fd36c8b7842501101587819a4f622354</update_guid>
+        <update_guid_history>fd36c8b7842501101587819a4f622354:-1905223478</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-15 01:22:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_master_config">sys_aw_master_config</sys_db_object>
+        <sys_id>3c93d801623c44f48f8c779c2df5cb21</sys_id>
+        <sys_metadata>ed3688b72f250110931052172799b645</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agent Workspace</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_scope_delete display_value="">1b5926a6e53c42a787e144c98865e359</sys_scope_delete>
+        <sys_update_name>sys_aw_master_config_ed3688b72f250110931052172799b645</sys_update_name>
+        <sys_update_version display_value="sys_aw_master_config_ed3688b72f250110931052172799b645">b536c8b72f250110931052172799b655</sys_update_version>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-15 01:22:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

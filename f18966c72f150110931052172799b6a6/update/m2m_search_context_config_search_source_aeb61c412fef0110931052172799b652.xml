@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="CATS/PABLO search config">837658852faf0110931052172799b660</search_context_config>
+        <source display_value="CP Customer Complaints">56008c322f650110931052172799b665</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-05-16 23:36:16</sys_created_on>
+        <sys_id>aeb61c412fef0110931052172799b652</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_aeb61c412fef0110931052172799b652</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-05-18 00:55:16</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

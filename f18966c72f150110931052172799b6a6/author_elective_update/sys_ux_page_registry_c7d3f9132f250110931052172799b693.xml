@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>7b24ceae5304130084acddeeff7b12a3</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <auth_routes/>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/agent</path>
+        <root_macroponent/>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 20:03:43</sys_created_on>
+        <sys_id>c7d3f9132f250110931052172799b693</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CATS Agent Workspace</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_ux_page_registry_c7d3f9132f250110931052172799b693</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 20:03:53</sys_updated_on>
+        <title>CATS Agent Workspace</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</application>
+        <file_path/>
+        <instance_id>2add6bcadba5b384387021c405961947</instance_id>
+        <instance_name>dev86351</instance_name>
+        <name>sys_ux_page_registry_c7d3f9132f250110931052172799b693</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>7b24ceae5304130084acddeeff7b12a3</admin_panel><admin_panel_table>sys_aw_master_config</admin_panel_table><auth_routes/><page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page><path>workspace/agent</path><root_macroponent/><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 20:03:43</sys_created_on><sys_id>c7d3f9132f250110931052172799b693</sys_id><sys_mod_count>1</sys_mod_count><sys_name>CATS Agent Workspace</sys_name><sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package><sys_policy/><sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope><sys_update_name>sys_ux_page_registry_c7d3f9132f250110931052172799b693</sys_update_name><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 20:03:53</sys_updated_on><title>CATS Agent Workspace</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>398105128</payload_hash>
+        <record_name>CATS Agent Workspace</record_name>
+        <reverted_from/>
+        <source>7d8966c72f150110931052172799b6a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 20:03:53</sys_created_on>
+        <sys_id>a9e371532f250110931052172799b6ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ef4af41400000001</sys_recorded_at>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 20:03:53</sys_updated_on>
+        <type>UX Page Registry</type>
+        <update_guid>61e371534a25011006f76cff37d632ab</update_guid>
+        <update_guid_history>61e371534a25011006f76cff37d632ab:398105128,8bd3f91338250110e7ad27139038fe95:-501730004</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 20:13:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>0952ba671d444b5b8cdfcf5e420267d1</sys_id>
+        <sys_metadata>c7d3f9132f250110931052172799b693</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CATS Agent Workspace</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_scope_delete display_value="">1b5926a6e53c42a787e144c98865e359</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_c7d3f9132f250110931052172799b693</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_c7d3f9132f250110931052172799b693">a9e371532f250110931052172799b6ab</sys_update_version>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 20:13:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

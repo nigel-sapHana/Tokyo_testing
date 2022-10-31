@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="CSM - Agent">d471cdf2530020102c30ddeeff7b1206</applicability>
+        <order>0</order>
+        <screen display_value="Dashboard default">bb6698e3d7120110c028330293e7a77b</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-06-03 02:37:44</sys_created_on>
+        <sys_id>3553a8222f734110931052172799b6fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_3553a8222f734110931052172799b6fb</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-06-03 02:37:44</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

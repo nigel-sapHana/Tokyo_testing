@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_custom_content_root_elem">
+    <sys_ux_custom_content_root_elem action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability>single</applicability>
+        <applicable_page display_value="CATS">febfef532fe90110931052172799b62d</applicable_page>
+        <attrs/>
+        <children/>
+        <component/>
+        <is_root>true</is_root>
+        <layout/>
+        <macroponent/>
+        <macroponent_config>{
+  "label" : "My Workspace"
+}</macroponent_config>
+        <name>Landing page 1</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent/>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <placeholder/>
+        <sys_class_name>sys_ux_custom_content_root_elem</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-03-23 15:47:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1bb560a32f520110931052172799b69f</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Landing page 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_ux_custom_content_root_elem_1bb560a32f520110931052172799b69f</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-06-23 22:03:02</sys_updated_on>
+        <tree_root/>
+    </sys_ux_custom_content_root_elem>
+    <sys_variable_value action="delete_multiple" query="document_key=1bb560a32f520110931052172799b69f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_ux_custom_content_root_elem</document>
+        <document_key>1bb560a32f520110931052172799b69f</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-03-23 15:47:57</sys_created_on>
+        <sys_id>13b560a32f520110931052172799b6a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-03-23 15:47:57</sys_updated_on>
+        <value>y</value>
+        <variable display_value="Scrollable">c2ca34321b93a13cb55fdbda270c3842</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_ux_custom_content_root_elem</document>
+        <document_key>1bb560a32f520110931052172799b69f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-03-23 15:47:57</sys_created_on>
+        <sys_id>17b560a32f520110931052172799b6a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-03-23 15:47:57</sys_updated_on>
+        <value/>
+        <variable display_value="Optional Page Title">8ba82151f73dc262f54c402df411d3a7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_ux_custom_content_root_elem</document>
+        <document_key>1bb560a32f520110931052172799b69f</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-03-23 15:47:57</sys_created_on>
+        <sys_id>53b560a32f520110931052172799b6a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-03-23 15:47:57</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Propagate Notifications">715291b63e3708a64d8ec52316cfbd61</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_ux_custom_content_root_elem</document>
+        <document_key>1bb560a32f520110931052172799b69f</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-03-23 15:47:57</sys_created_on>
+        <sys_id>5fb560a32f520110931052172799b6a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-03-23 15:47:57</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Intercept Notifications">59151ab7384d714ba5e78040d01cb16a</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_ux_custom_content_root_elem</document>
+        <document_key>1bb560a32f520110931052172799b69f</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-03-23 15:47:57</sys_created_on>
+        <sys_id>9bb560a32f520110931052172799b6a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-03-23 15:47:57</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Heading Level">53ae4534831995c6de81ba3c9607f3aa</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_ux_custom_content_root_elem</document>
+        <document_key>1bb560a32f520110931052172799b69f</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-03-23 15:47:57</sys_created_on>
+        <sys_id>d7b560a32f520110931052172799b6a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-03-23 15:47:57</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Bare">c7dca68936ca9f5606b97fe1af25723f</variable>
+    </sys_variable_value>
+</record_update>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="DELETE">
+        <active>false</active>
+        <condition/>
+        <name>CATS/PABLO search config2 </name>
+        <source_table>x_540313_cats_consumer</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-05-18 01:02:37</sys_created_on>
+        <sys_id>990471dd2f634110931052172799b664</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CATS/PABLO search config2 </sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_search_source_990471dd2f634110931052172799b664</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-05-18 01:02:37</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="DELETE" query="documentkey=990471dd2f634110931052172799b664"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</application>
+        <file_path/>
+        <instance_id>2add6bcadba5b384387021c405961947</instance_id>
+        <instance_name>dev86351</instance_name>
+        <name>sys_search_source_990471dd2f634110931052172799b664</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source"><sys_search_source action="INSERT_OR_UPDATE"><active>false</active><condition/><name>CATS/PABLO search config2 </name><source_table>x_540313_cats_consumer</source_table><sys_class_name>sys_search_source</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-05-18 01:02:37</sys_created_on><sys_id>990471dd2f634110931052172799b664</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CATS/PABLO search config2 </sys_name><sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package><sys_policy/><sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope><sys_update_name>sys_search_source_990471dd2f634110931052172799b664</sys_update_name><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-05-18 01:02:37</sys_updated_on></sys_search_source><sys_translated_text action="delete_multiple" query="documentkey=990471dd2f634110931052172799b664"/></record_update>]]></payload>
+        <payload_hash>-1503011135</payload_hash>
+        <record_name>CATS/PABLO search config2 </record_name>
+        <reverted_from/>
+        <source>7d8966c72f150110931052172799b6a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-05-18 01:02:37</sys_created_on>
+        <sys_id>6c2471512fa34110931052172799b60e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180d4b02cdc0000001</sys_recorded_at>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-05-18 01:02:37</sys_updated_on>
+        <type>Search Source</type>
+        <update_guid>a424715112a34110a669bc01764e6b0e</update_guid>
+        <update_guid_history>a424715112a34110a669bc01764e6b0e:-1503011135</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-05-18 01:03:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_search_source">sys_search_source</sys_db_object>
+        <sys_id>059d571561ff425080c5f1cd25634240</sys_id>
+        <sys_metadata>990471dd2f634110931052172799b664</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CATS/PABLO search config2 </sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_scope_delete display_value="">1b5926a6e53c42a787e144c98865e359</sys_scope_delete>
+        <sys_update_name>sys_search_source_990471dd2f634110931052172799b664</sys_update_name>
+        <sys_update_version display_value="sys_search_source_990471dd2f634110931052172799b664">6c2471512fa34110931052172799b60e</sys_update_version>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-05-18 01:03:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

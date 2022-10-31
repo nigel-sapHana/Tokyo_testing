@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_540313_cats_cookietasks</description>
+        <name>x_540313_cats_cookietasks</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-06-06 17:24:26</sys_created_on>
+        <sys_id>770b43a72f770110931052172799b6df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_540313_cats_cookietasks</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_security_acl_770b43a72f770110931052172799b6df</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-06-06 17:24:26</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</application>
+        <file_path/>
+        <instance_id>2add6bcadba5b384387021c405961947</instance_id>
+        <instance_name>dev86351</instance_name>
+        <name>sys_security_acl_770b43a72f770110931052172799b6df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_540313_cats_cookietasks</description><name>x_540313_cats_cookietasks</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-06-06 17:24:26</sys_created_on><sys_id>770b43a72f770110931052172799b6df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_540313_cats_cookietasks</sys_name><sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package><sys_policy/><sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope><sys_update_name>sys_security_acl_770b43a72f770110931052172799b6df</sys_update_name><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-06-06 17:24:26</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1085233036</payload_hash>
+        <record_name>x_540313_cats_cookietasks</record_name>
+        <reverted_from/>
+        <source>7d8966c72f150110931052172799b6a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-06-06 17:24:26</sys_created_on>
+        <sys_id>f70b43a72f770110931052172799b6e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1813a0be44f0000001</sys_recorded_at>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-06-06 17:24:26</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>330b43a704770110123960ad0a18ade3</update_guid>
+        <update_guid_history>330b43a704770110123960ad0a18ade3:1085233036</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-06-06 17:25:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>751c26f3e2be43cc8c24dba044b24559</sys_id>
+        <sys_metadata>770b43a72f770110931052172799b6df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_540313_cats_cookietasks</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_parent display_value="">401b43a72f770110931052172799b6fa</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_scope_delete display_value="">1b5926a6e53c42a787e144c98865e359</sys_scope_delete>
+        <sys_update_name>sys_security_acl_770b43a72f770110931052172799b6df</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_770b43a72f770110931052172799b6df">f70b43a72f770110931052172799b6e3</sys_update_version>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-06-06 17:25:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

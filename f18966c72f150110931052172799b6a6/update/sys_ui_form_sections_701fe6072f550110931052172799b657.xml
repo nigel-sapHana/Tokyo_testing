@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="701fe6072f550110931052172799b657" sys_domain="global" table="x_540313_cats_consumer" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c11fe6072f550110931052172799b672</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_540313_cats_consumer" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">701fe6072f550110931052172799b657</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">891fe6072f550110931052172799b66a</sys_ui_section>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>851fe6072f550110931052172799b66a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_540313_cats_consumer" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">701fe6072f550110931052172799b657</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">451fe6072f550110931052172799b666</sys_ui_section>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c1fe6072f550110931052172799b65d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_540313_cats_consumer" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">701fe6072f550110931052172799b657</sys_ui_form>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">f01fe6072f550110931052172799b659</sys_ui_section>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>811fe6072f550110931052172799b662</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_540313_cats_consumer" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">701fe6072f550110931052172799b657</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">701fe6072f550110931052172799b65e</sys_ui_section>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>411fe6072f550110931052172799b666</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_540313_cats_consumer" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">701fe6072f550110931052172799b657</sys_ui_form>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">851fe6072f550110931052172799b662</sys_ui_section>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_540313_cats_consumer</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>701fe6072f550110931052172799b657</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_540313_cats_consumer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+            <sys_update_name>sys_ui_form_sections_701fe6072f550110931052172799b657</sys_update_name>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+            <sys_user/>
+            <view display_value="Case" name="case">d55746362fe73010931052172799b64a</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

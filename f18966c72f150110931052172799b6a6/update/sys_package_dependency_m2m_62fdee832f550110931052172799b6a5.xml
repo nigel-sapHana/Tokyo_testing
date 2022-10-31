@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Customer Service" source="sn_customerservice">51d811fad7223100b7490ee60e61034f</dependency>
+        <min_version>20.1.10</min_version>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-01-31 19:23:27</sys_created_on>
+        <sys_id>62fdee832f550110931052172799b6a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-01-31 19:23:27</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="DELETE">
+        <active>true</active>
+        <content/>
+        <content_attrs/>
+        <content_component/>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>analytics-center-outline</icon>
+        <id>analytics_center</id>
+        <label>Analytics Center</label>
+        <order>1000</order>
+        <roles name="pa_viewer">a90d30b3bf101100b96dac808c073950</roles>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:11:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6df7e1572fe10110931052172799b63f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>analytics_center</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_aw_module_6df7e1572fe10110931052172799b63f</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:11:44</sys_updated_on>
+        <toolbar_button/>
+        <type>full</type>
+        <workspace_config display_value="Agent Workspace">61f76d172fe10110931052172799b6cf</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="DELETE" query="document_key=6df7e1572fe10110931052172799b63f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</application>
+        <file_path/>
+        <instance_id>2add6bcadba5b384387021c405961947</instance_id>
+        <instance_name>dev86351</instance_name>
+        <name>sys_aw_module_6df7e1572fe10110931052172799b63f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module"><sys_aw_module action="INSERT_OR_UPDATE"><active>true</active><content/><content_attrs/><content_component/><content_tag/><detail/><detail_attrs/><detail_component/><detail_tag/><hide_until_ready>false</hide_until_ready><icon>analytics-center-outline</icon><id>analytics_center</id><label>Analytics Center</label><order>1000</order><roles name="pa_viewer">a90d30b3bf101100b96dac808c073950</roles><sys_class_name>sys_aw_module</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:11:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6df7e1572fe10110931052172799b63f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>analytics_center</sys_name><sys_overrides/><sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package><sys_policy/><sys_props/><sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope><sys_update_name>sys_aw_module_6df7e1572fe10110931052172799b63f</sys_update_name><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:11:44</sys_updated_on><toolbar_button/><type>full</type><workspace_config display_value="Agent Workspace">61f76d172fe10110931052172799b6cf</workspace_config></sys_aw_module><sys_variable_value action="delete_multiple" query="document_key=6df7e1572fe10110931052172799b63f"/></record_update>]]></payload>
+        <payload_hash>-1833879629</payload_hash>
+        <record_name>analytics_center</record_name>
+        <reverted_from/>
+        <source>7d8966c72f150110931052172799b6a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:11:44</sys_created_on>
+        <sys_id>e1f7e1572fe10110931052172799b643</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ef47f81e00000001</sys_recorded_at>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:11:44</sys_updated_on>
+        <type>Workspace Module</type>
+        <update_guid>2df7e1578be10110e0da7835d2e55742</update_guid>
+        <update_guid_history>2df7e1578be10110e0da7835d2e55742:-1833879629</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:12:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_module">sys_aw_module</sys_db_object>
+        <sys_id>c8c78a88945e463097a3e763bf15e440</sys_id>
+        <sys_metadata>6df7e1572fe10110931052172799b63f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>analytics_center</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_scope_delete display_value="">1b5926a6e53c42a787e144c98865e359</sys_scope_delete>
+        <sys_update_name>sys_aw_module_6df7e1572fe10110931052172799b63f</sys_update_name>
+        <sys_update_version display_value="sys_aw_module_6df7e1572fe10110931052172799b63f">e1f7e1572fe10110931052172799b643</sys_update_version>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:12:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="CookieTasks">e70b43a72f770110931052172799b6a7</application>
+        <filter/>
+        <name>CookieTasks</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_540313_cats.cookietasks_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-06-06 17:24:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6b0b43a72f770110931052172799b6aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CookieTasks</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_ui_module_6b0b43a72f770110931052172799b6aa</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-06-06 17:24:26</sys_updated_on>
+        <table>x_540313_cats_cookietasks</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</application>
+        <file_path/>
+        <instance_id>2add6bcadba5b384387021c405961947</instance_id>
+        <instance_name>dev86351</instance_name>
+        <name>sys_ui_module_6b0b43a72f770110931052172799b6aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="CookieTasks">e70b43a72f770110931052172799b6a7</application><filter/><name>CookieTasks</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_540313_cats.cookietasks_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-06-06 17:24:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6b0b43a72f770110931052172799b6aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CookieTasks</sys_name><sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package><sys_policy/><sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope><sys_update_name>sys_ui_module_6b0b43a72f770110931052172799b6aa</sys_update_name><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-06-06 17:24:26</sys_updated_on><table>x_540313_cats_cookietasks</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>126411094</payload_hash>
+        <record_name>CookieTasks</record_name>
+        <reverted_from/>
+        <source>7d8966c72f150110931052172799b6a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-06-06 17:24:26</sys_created_on>
+        <sys_id>ab0b43a72f770110931052172799b6ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1813a0be2040000001</sys_recorded_at>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-06-06 17:24:26</sys_updated_on>
+        <type>Module</type>
+        <update_guid>e30b43a779770110aed8d2c56827a6ad</update_guid>
+        <update_guid_history>e30b43a779770110aed8d2c56827a6ad:126411094</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-06-06 17:25:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>87871c95e70c454189f5af73258aa7e1</sys_id>
+        <sys_metadata>6b0b43a72f770110931052172799b6aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CookieTasks</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_scope_delete display_value="">1b5926a6e53c42a787e144c98865e359</sys_scope_delete>
+        <sys_update_name>sys_ui_module_6b0b43a72f770110931052172799b6aa</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_6b0b43a72f770110931052172799b6aa">ab0b43a72f770110931052172799b6ad</sys_update_version>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-06-06 17:25:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

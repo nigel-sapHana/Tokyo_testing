@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_custom_content_root_elem">
+    <sys_ux_custom_content_root_elem action="DELETE">
+        <active>true</active>
+        <applicability>single</applicability>
+        <applicable_page display_value="GOA - CATS/PABLO">20573dd32f250110931052172799b6b1</applicable_page>
+        <attrs/>
+        <children/>
+        <component display_value="now-uxf-page">9c38d25e67a0330075e8ebc172415a21</component>
+        <is_root>true</is_root>
+        <layout/>
+        <macroponent display_value="CATS/PABLO Home">1d39d71f2f690110931052172799b6a0</macroponent>
+        <macroponent_config>{
+  "label" : {
+    "type" : "JSON_LITERAL",
+    "value" : "CATS/PABLO Home"
+  }
+}</macroponent_config>
+        <name>CATS/PABLO Home</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent/>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <placeholder display_value="Landing Page Placeholder">51a768297710330022f7f4d26810617d</placeholder>
+        <sys_class_name>sys_ux_custom_content_root_elem</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 20:20:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ec27f5d32f250110931052172799b685</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>CATS/PABLO Home</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_ux_custom_content_root_elem_ec27f5d32f250110931052172799b685</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-14 03:26:31</sys_updated_on>
+        <tree_root/>
+    </sys_ux_custom_content_root_elem>
+    <sys_variable_value action="DELETE" query="document_key=ec27f5d32f250110931052172799b685"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_custom_content_root_elem</document>
+        <document_key>ec27f5d32f250110931052172799b685</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 20:20:16</sys_created_on>
+        <sys_id>a9a779172f250110931052172799b649</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-14 03:26:21</sys_updated_on>
+        <value>CATS/PABLO Home</value>
+        <variable display_value="Optional Page Title">74b9169e67a0330075e8ebc172415a1f</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</application>
+        <file_path/>
+        <instance_id>2add6bcadba5b384387021c405961947</instance_id>
+        <instance_name>dev86351</instance_name>
+        <name>sys_ux_custom_content_root_elem_ec27f5d32f250110931052172799b685</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_custom_content_root_elem"><sys_ux_custom_content_root_elem action="INSERT_OR_UPDATE"><active>true</active><applicability>single</applicability><applicable_page display_value="GOA - CATS/PABLO">20573dd32f250110931052172799b6b1</applicable_page><attrs/><children/><component display_value="now-uxf-page">9c38d25e67a0330075e8ebc172415a21</component><is_root>true</is_root><layout/><macroponent display_value="CATS/PABLO Home">1d39d71f2f690110931052172799b6a0</macroponent><macroponent_config>{
+  "label" : {
+    "type" : "JSON_LITERAL",
+    "value" : "CATS/PABLO Home"
+  }
+}</macroponent_config><name>CATS/PABLO Home</name><order>0</order><page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page><parent/><parent_slot/><picker/><picker_condition/><placeholder display_value="Landing Page Placeholder">51a768297710330022f7f4d26810617d</placeholder><sys_class_name>sys_ux_custom_content_root_elem</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 20:20:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ec27f5d32f250110931052172799b685</sys_id><sys_mod_count>3</sys_mod_count><sys_name>CATS/PABLO Home</sys_name><sys_overrides/><sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package><sys_policy/><sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope><sys_update_name>sys_ux_custom_content_root_elem_ec27f5d32f250110931052172799b685</sys_update_name><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-14 03:26:31</sys_updated_on><tree_root/></sys_ux_custom_content_root_elem><sys_variable_value action="delete_multiple" query="document_key=ec27f5d32f250110931052172799b685"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_custom_content_root_elem</document><document_key>ec27f5d32f250110931052172799b685</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 20:20:16</sys_created_on><sys_id>a9a779172f250110931052172799b649</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-14 03:26:21</sys_updated_on><value>CATS/PABLO Home</value><variable display_value="Optional Page Title">74b9169e67a0330075e8ebc172415a1f</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-1948267532</payload_hash>
+        <record_name>CATS/PABLO Home</record_name>
+        <reverted_from/>
+        <source>7d8966c72f150110931052172799b6a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-14 03:26:31</sys_created_on>
+        <sys_id>a539db1f2f690110931052172799b6d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ef6447f0a0000001</sys_recorded_at>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-14 03:26:31</sys_updated_on>
+        <type>UX Custom Content Extension</type>
+        <update_guid>ed39db1faf690110e30fa75e1b4f26d6</update_guid>
+        <update_guid_history>ed39db1faf690110e30fa75e1b4f26d6:-1948267532,8f29db1ff36901106d989d7fb4f5c60a:1809291359,daf6179b82690110548024b79ef8b156:661043030,ada7791776250110faf11c90b296ee4b:527940559</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-14 03:33:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_custom_content_root_elem">sys_ux_custom_content_root_elem</sys_db_object>
+        <sys_id>d680c39021674ce2a8924e3e307f6544</sys_id>
+        <sys_metadata>ec27f5d32f250110931052172799b685</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CATS/PABLO Home</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_scope_delete display_value="">1b5926a6e53c42a787e144c98865e359</sys_scope_delete>
+        <sys_update_name>sys_ux_custom_content_root_elem_ec27f5d32f250110931052172799b685</sys_update_name>
+        <sys_update_version display_value="sys_ux_custom_content_root_elem_ec27f5d32f250110931052172799b685">a539db1f2f690110931052172799b6d7</sys_update_version>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-14 03:33:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

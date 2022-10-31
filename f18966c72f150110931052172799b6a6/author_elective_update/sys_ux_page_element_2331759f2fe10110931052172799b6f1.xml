@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element">
+    <sys_ux_page_element action="DELETE">
+        <attrs/>
+        <children/>
+        <component display_value="now-uxf-visualization-connected">180a1a9e67a0330075e8ebc172415a20</component>
+        <is_root>false</is_root>
+        <layout/>
+        <macroponent/>
+        <macroponent_config/>
+        <name>Report (test incidents)</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent display_value="">e2c0b11f2fe10110931052172799b6c0</parent>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <sys_class_name>sys_ux_page_element</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:53:02</sys_created_on>
+        <sys_id>2331759f2fe10110931052172799b6f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Report (test incidents)</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_ux_page_element_2331759f2fe10110931052172799b6f1</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:53:02</sys_updated_on>
+        <tree_root/>
+    </sys_ux_page_element>
+    <sys_variable_value action="DELETE" query="document_key=2331759f2fe10110931052172799b6f1"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2331759f2fe10110931052172799b6f1</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:53:02</sys_created_on>
+        <sys_id>3a61f19f2fe10110931052172799b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:53:02</sys_updated_on>
+        <value/>
+        <variable display_value="Optional Widget Label">c03a9a9e67a0330075e8ebc172415a6b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2331759f2fe10110931052172799b6f1</document_key>
+        <order>800</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:53:02</sys_created_on>
+        <sys_id>3e61f19f2fe10110931052172799b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:53:02</sys_updated_on>
+        <value>995ea851d7030200eaae68150e610360</value>
+        <variable display_value="Visualization SysID">6a9e1a5267e0330075e8ebc172415ac2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2331759f2fe10110931052172799b6f1</document_key>
+        <order>900</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:53:02</sys_created_on>
+        <sys_id>7261f19f2fe10110931052172799b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:53:02</sys_updated_on>
+        <value>single_score</value>
+        <variable display_value="Report Type">2dce9a5267e0330075e8ebc172415adc</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2331759f2fe10110931052172799b6f1</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:53:02</sys_created_on>
+        <sys_id>7661f19f2fe10110931052172799b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:53:02</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Single score live updates">2838cfb0db0400105af5ff0968961992</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2331759f2fe10110931052172799b6f1</document_key>
+        <order>700</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:53:02</sys_created_on>
+        <sys_id>7a61f19f2fe10110931052172799b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:53:02</sys_updated_on>
+        <value>NOTE: Apply only 1 Report widget or 1 PA Widget. If both fields are filled, only the report will be shown.</value>
+        <variable display_value="Additional Details">cdee1e5267e0330075e8ebc172415ab8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2331759f2fe10110931052172799b6f1</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:53:02</sys_created_on>
+        <sys_id>b261f19f2fe10110931052172799b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:53:02</sys_updated_on>
+        <value/>
+        <variable display_value="Size Variant">1d4ada9e67a0330075e8ebc172415adc</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2331759f2fe10110931052172799b6f1</document_key>
+        <order>500</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:53:02</sys_created_on>
+        <sys_id>b661f19f2fe10110931052172799b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:53:02</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Border">2a2b56de67a0330075e8ebc172415a42</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2331759f2fe10110931052172799b6f1</document_key>
+        <order>600</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:53:02</sys_created_on>
+        <sys_id>be61f19f2fe10110931052172799b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:53:02</sys_updated_on>
+        <value>2</value>
+        <variable display_value="Refresh Interval (minutes)">c1290fd66720330075e8ebc172415a8e</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2331759f2fe10110931052172799b6f1</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:53:02</sys_created_on>
+        <sys_id>fa61f19f2fe10110931052172799b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:53:02</sys_updated_on>
+        <value/>
+        <variable display_value="PA Widget">fe7e965267e0330075e8ebc172415ade</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_ux_page_element</document>
+        <document_key>2331759f2fe10110931052172799b6f1</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 19:53:02</sys_created_on>
+        <sys_id>fe61f19f2fe10110931052172799b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 19:53:02</sys_updated_on>
+        <value>995ea851d7030200eaae68150e610360</value>
+        <variable display_value="Report">145c121267e0330075e8ebc172415ad8</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</application>
+        <file_path/>
+        <instance_id>2add6bcadba5b384387021c405961947</instance_id>
+        <instance_name>dev86351</instance_name>
+        <name>sys_ux_page_element_2331759f2fe10110931052172799b6f1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element"><sys_ux_page_element action="INSERT_OR_UPDATE"><attrs/><children/><component display_value="now-uxf-visualization-connected">180a1a9e67a0330075e8ebc172415a20</component><is_root>false</is_root><layout/><macroponent/><macroponent_config/><name>Report (test incidents)</name><order>0</order><page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page><parent display_value="">e2c0b11f2fe10110931052172799b6c0</parent><parent_slot/><picker/><picker_condition/><sys_class_name>sys_ux_page_element</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:53:02</sys_created_on><sys_id>2331759f2fe10110931052172799b6f1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Report (test incidents)</sys_name><sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package><sys_policy/><sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope><sys_update_name>sys_ux_page_element_2331759f2fe10110931052172799b6f1</sys_update_name><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:53:02</sys_updated_on><tree_root/></sys_ux_page_element><sys_variable_value action="delete_multiple" query="document_key=2331759f2fe10110931052172799b6f1"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2331759f2fe10110931052172799b6f1</document_key><order>300</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:53:02</sys_created_on><sys_id>3a61f19f2fe10110931052172799b660</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:53:02</sys_updated_on><value/><variable display_value="Optional Widget Label">c03a9a9e67a0330075e8ebc172415a6b</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2331759f2fe10110931052172799b6f1</document_key><order>800</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:53:02</sys_created_on><sys_id>3e61f19f2fe10110931052172799b65f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:53:02</sys_updated_on><value>995ea851d7030200eaae68150e610360</value><variable display_value="Visualization SysID">6a9e1a5267e0330075e8ebc172415ac2</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2331759f2fe10110931052172799b6f1</document_key><order>900</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:53:02</sys_created_on><sys_id>7261f19f2fe10110931052172799b661</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:53:02</sys_updated_on><value>single_score</value><variable display_value="Report Type">2dce9a5267e0330075e8ebc172415adc</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2331759f2fe10110931052172799b6f1</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:53:02</sys_created_on><sys_id>7661f19f2fe10110931052172799b660</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:53:02</sys_updated_on><value>0</value><variable display_value="Single score live updates">2838cfb0db0400105af5ff0968961992</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2331759f2fe10110931052172799b6f1</document_key><order>700</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:53:02</sys_created_on><sys_id>7a61f19f2fe10110931052172799b65f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:53:02</sys_updated_on><value>NOTE: Apply only 1 Report widget or 1 PA Widget. If both fields are filled, only the report will be shown.</value><variable display_value="Additional Details">cdee1e5267e0330075e8ebc172415ab8</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2331759f2fe10110931052172799b6f1</document_key><order>400</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:53:02</sys_created_on><sys_id>b261f19f2fe10110931052172799b660</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:53:02</sys_updated_on><value/><variable display_value="Size Variant">1d4ada9e67a0330075e8ebc172415adc</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2331759f2fe10110931052172799b6f1</document_key><order>500</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:53:02</sys_created_on><sys_id>b661f19f2fe10110931052172799b65f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:53:02</sys_updated_on><value>0</value><variable display_value="Border">2a2b56de67a0330075e8ebc172415a42</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2331759f2fe10110931052172799b6f1</document_key><order>600</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:53:02</sys_created_on><sys_id>be61f19f2fe10110931052172799b660</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:53:02</sys_updated_on><value>2</value><variable display_value="Refresh Interval (minutes)">c1290fd66720330075e8ebc172415a8e</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2331759f2fe10110931052172799b6f1</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:53:02</sys_created_on><sys_id>fa61f19f2fe10110931052172799b660</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:53:02</sys_updated_on><value/><variable display_value="PA Widget">fe7e965267e0330075e8ebc172415ade</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_ux_page_element</document><document_key>2331759f2fe10110931052172799b6f1</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-02-13 19:53:02</sys_created_on><sys_id>fe61f19f2fe10110931052172799b65f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-02-13 19:53:02</sys_updated_on><value>995ea851d7030200eaae68150e610360</value><variable display_value="Report">145c121267e0330075e8ebc172415ad8</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-941602559</payload_hash>
+        <record_name>Report (test incidents)</record_name>
+        <reverted_from/>
+        <source>7d8966c72f150110931052172799b6a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 20:14:22</sys_created_on>
+        <sys_id>5746f9d32f250110931052172799b6a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ef4b8db8f0000001</sys_recorded_at>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 20:14:22</sys_updated_on>
+        <type>UX Page Element</type>
+        <update_guid>7661b99f2be101109dd042bc39be1b18</update_guid>
+        <update_guid_history>7661b99f2be101109dd042bc39be1b18:-1948877619,7661b99f2be101109dd042bc39be1b18:-1948877619</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-02-13 20:14:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_element">sys_ux_page_element</sys_db_object>
+        <sys_id>63ae10891e9940b28d727d77bdd44624</sys_id>
+        <sys_metadata>2331759f2fe10110931052172799b6f1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Report (test incidents)</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_scope_delete display_value="">1b5926a6e53c42a787e144c98865e359</sys_scope_delete>
+        <sys_update_name>sys_ux_page_element_2331759f2fe10110931052172799b6f1</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_element_2331759f2fe10110931052172799b6f1">5746f9d32f250110931052172799b6a4</sys_update_version>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-02-13 20:14:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

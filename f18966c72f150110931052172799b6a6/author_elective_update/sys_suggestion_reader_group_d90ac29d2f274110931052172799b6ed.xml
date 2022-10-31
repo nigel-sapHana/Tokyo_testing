@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="DELETE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="CP Customer Complaints">7ef9829d2f274110931052172799b6a8</context_config_id>
+        <limit>5</limit>
+        <order>400</order>
+        <section_header>Suggested results</section_header>
+        <suggestion_type>Suggested Result Reader Group for CP Customer Complaints</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-05-18 02:38:15</sys_created_on>
+        <sys_id>d90ac29d2f274110931052172799b6ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggested Result Reader Group for CP Customer Complaints</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_d90ac29d2f274110931052172799b6ed</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-05-18 02:38:15</sys_updated_on>
+    </sys_suggestion_reader_group>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</application>
+        <file_path/>
+        <instance_id>2add6bcadba5b384387021c405961947</instance_id>
+        <instance_name>dev86351</instance_name>
+        <name>sys_suggestion_reader_group_d90ac29d2f274110931052172799b6ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group"><sys_suggestion_reader_group action="INSERT_OR_UPDATE"><click_in_mode>false</click_in_mode><context_config_id display_value="CP Customer Complaints">7ef9829d2f274110931052172799b6a8</context_config_id><limit>5</limit><order>400</order><section_header>Suggested results</section_header><suggestion_type>Suggested Result Reader Group for CP Customer Complaints</suggestion_type><sys_class_name>sys_suggestion_reader_group</sys_class_name><sys_created_by>nigel.gilbert</sys_created_by><sys_created_on>2022-05-18 02:38:15</sys_created_on><sys_id>d90ac29d2f274110931052172799b6ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Suggested Result Reader Group for CP Customer Complaints</sys_name><sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package><sys_policy/><sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope><sys_update_name>sys_suggestion_reader_group_d90ac29d2f274110931052172799b6ed</sys_update_name><sys_updated_by>nigel.gilbert</sys_updated_by><sys_updated_on>2022-05-18 02:38:15</sys_updated_on></sys_suggestion_reader_group></record_update>]]></payload>
+        <payload_hash>-749103059</payload_hash>
+        <record_name>Suggested Result Reader Group for CP Customer Complaints</record_name>
+        <reverted_from/>
+        <source>7d8966c72f150110931052172799b6a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-05-18 02:38:15</sys_created_on>
+        <sys_id>110ac29d2f274110931052172799b6ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180d507ba8f0000001</sys_recorded_at>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-05-18 02:38:15</sys_updated_on>
+        <type>Suggestion Reader Group</type>
+        <update_guid>590ac29dd32741107e80f414d0b280ee</update_guid>
+        <update_guid_history>590ac29dd32741107e80f414d0b280ee:-749103059</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-05-18 02:39:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_suggestion_reader_group">sys_suggestion_reader_group</sys_db_object>
+        <sys_id>239f99a74ebd40fbb445803f6d4f3d19</sys_id>
+        <sys_metadata>d90ac29d2f274110931052172799b6ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggested Result Reader Group for CP Customer Complaints</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_scope_delete display_value="">1b5926a6e53c42a787e144c98865e359</sys_scope_delete>
+        <sys_update_name>sys_suggestion_reader_group_d90ac29d2f274110931052172799b6ed</sys_update_name>
+        <sys_update_version display_value="sys_suggestion_reader_group_d90ac29d2f274110931052172799b6ed">110ac29d2f274110931052172799b6ef</sys_update_version>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-05-18 02:39:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <before>false</before>
+        <description/>
+        <name>test for demand manager</name>
+        <record_for_rollback>false</record_for_rollback>
+        <script><![CDATA[var gr_user = new GlideRecord('sys_user');
+gr_user.addQuery('name', 'Spider Man');
+gr_user.addQuery('active', true);
+gr_user.query();
+
+while (gr_user.next()) {
+
+    //gs.info('User sysid' + gr_user.sys_id);
+
+    var gr_dmr = new GlideRecord('sys_user_role');
+    gr_dmr.addQuery('name', 'it_demand_manager');
+    gr_dmr.query();
+
+    if (gr_dmr.next()) {
+
+		//gs.info('Role sysid ' + gr_dmr.getUniqueValue());
+		
+        var gr_roles = new GlideRecord('sys_user_has_role');
+        gr_roles.addQuery('role', gr_dmr.getUniqueValue());
+        gr_roles.addQuery('state', 'active');
+        gr_roles.addQuery('user', gr_user.getUniqueValue());
+        gr_roles.query();
+
+        if (gr_roles.next()) {
+            gs.info('User sysid ' + gr_user.sys_id);
+            break;
+        }
+		else
+			gs.info('Nope');
+		
+
+    }
+}]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>nigel.gilbert</sys_created_by>
+        <sys_created_on>2022-03-24 22:16:55</sys_created_on>
+        <sys_id>cd0783f32f960110931052172799b63b</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>test for demand manager</sys_name>
+        <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+        <sys_update_name>sys_script_fix_cd0783f32f960110931052172799b63b</sys_update_name>
+        <sys_updated_by>nigel.gilbert</sys_updated_by>
+        <sys_updated_on>2022-03-24 22:58:19</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>

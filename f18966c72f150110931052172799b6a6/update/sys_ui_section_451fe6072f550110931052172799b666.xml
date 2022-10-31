@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Notes" section_id="451fe6072f550110931052172799b666" sys_domain="global" table="x_540313_cats_consumer" version="3" view="case">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_id>451fe6072f550110931052172799b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">451fe6072f550110931052172799b666</sys_ui_section>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>watch_list</element>
+            <position>1</position>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_id>c51fe6072f550110931052172799b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">451fe6072f550110931052172799b666</sys_ui_section>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_id>491fe6072f550110931052172799b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">451fe6072f550110931052172799b666</sys_ui_section>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes_list</element>
+            <position>3</position>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_id>c91fe6072f550110931052172799b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">451fe6072f550110931052172799b666</sys_ui_section>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_id>4d1fe6072f550110931052172799b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">451fe6072f550110931052172799b666</sys_ui_section>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>5</position>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_id>cd1fe6072f550110931052172799b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">451fe6072f550110931052172799b666</sys_ui_section>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>6</position>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_id>411fe6072f550110931052172799b668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">451fe6072f550110931052172799b666</sys_ui_section>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>7</position>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_id>c11fe6072f550110931052172799b668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_540313_cats_consumer" sys_domain="global" view="d55746362fe73010931052172799b64a">451fe6072f550110931052172799b666</sys_ui_section>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>x_540313_cats_consumer</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>nigel.gilbert</sys_created_by>
+            <sys_created_on>2022-01-31 19:28:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>451fe6072f550110931052172799b666</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_540313_cats_consumer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GOA - CATS/PABLO Consumer" source="x_540313_cats">f18966c72f150110931052172799b6a6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GOA - CATS/PABLO Consumer">f18966c72f150110931052172799b6a6</sys_scope>
+            <sys_update_name>sys_ui_section_451fe6072f550110931052172799b666</sys_update_name>
+            <sys_updated_by>nigel.gilbert</sys_updated_by>
+            <sys_updated_on>2022-01-31 19:28:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Case" name="case">d55746362fe73010931052172799b64a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
